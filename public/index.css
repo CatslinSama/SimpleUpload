@@ -1,0 +1,46 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    overflow: hidden;
+}
+input {
+    min-width: 80%;
+    margin-right: 20px;
+}
+h2 {
+    text-align: center;
+}
+img {
+    width: 40%;
+}
+button {
+    margin-right: 10px;
+    height: 100%;
+}
+.pageContainer {
+    width: 90%;
+    margin: auto;
+}
+.nav {
+    width: 60%;
+    height: 5vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.history {
+    width: 50%;
+    margin: auto;
+    height: 70vh;
+    padding: 20px;
+    overflow: auto;
+}
+.card {
+    border: 2px dotted black;
+    background-image: url("../public/share.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 10px;
+}

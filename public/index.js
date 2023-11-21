@@ -1,0 +1,1 @@
+// alert("Hello, this is a simplified sex website. You can quickly search and upload content here, and share it quickly. When you use it, we will charge a small fee. Thank you for using it.")
